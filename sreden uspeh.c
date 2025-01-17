@@ -15,10 +15,9 @@ int main()
     }
 
     avr=sum / n;
-<<<<<<< HEAD
+
     printf("your grade is SAMO MORKOWi:  %.2f", avr);
-=======
+
     printf("your grade MORKOW:  %.2f", avr);
->>>>>>> test2
     return 0;
         }
