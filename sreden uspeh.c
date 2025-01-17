@@ -15,6 +15,6 @@ int main()
     }
 
     avr=sum / n;
-    printf("your grade is CHUSHKI:  %.2f", avr);
+    printf("your grade is SAMO MORKOWi:  %.2f", avr);
     return 0;
         }
