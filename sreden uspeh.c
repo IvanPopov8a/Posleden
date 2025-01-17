@@ -15,6 +15,6 @@ int main()
     }
 
     avr=sum / n;
-    printf("your grade is:  %.2f", avr);
+    printf("your grade MORKOW:  %.2f", avr);
     return 0;
         }
